@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sortiment>
+    <bohrmaschine>
+        <artikelnummer>10010</artikelnummer>
+        <leistung>850</leistung>
+        <marke>Bosch</marke>
+        <preis>46.25</preis>
+    </bohrmaschine>
+    <bohrmaschine>
+        <artikelnummer>10014</artikelnummer>
+        <leistung>1000</leistung>
+        <preis>42.25</preis>
+    </bohrmaschine>
+    <winkelschleifer>
+        <artikelnummer>10207</artikelnummer>
+        <leistung>600</leistung>
+        <marke>Bosch</marke>
+        <preis>30.67</preis>
+    </winkelschleifer>
+</sortiment>
